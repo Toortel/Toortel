@@ -3,9 +3,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Toortel&theme=tokyonight" alt="Toortel" /></a> </p>
 
-- 🔭 I’m currently working on **a project that analyzes data from SEW frequency converters using Vue.js and Python with HBase**
+- 🔭 I’m currently working on **a project that analyzes data from SEW frequency converters using Vue.js and Python with HBase.**
 - 🌱 I’m currently learning **TypeScript, Composition API and Tailwind CSS.**
-- 💬 Ask me about **Vue.js or Vuetify!**
 - 📫 How to reach me **falonix01@gmail.com**
 
 <div> <a href="https://github.com/Toortel" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
